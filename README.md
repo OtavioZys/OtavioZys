@@ -1,7 +1,7 @@
 - 👋 Hello, my name is Otavio Zys and I'm a software engineer graduate from Brazil.
 - 👀 I’m interested in web design and game development.
-- 🌱 I’m currently learning Django and REACT, and also Unity.
-- 💞️ I’m looking to collaborate on indie games or web applications. 
+- 🌱 I’m currently learning Unity and focused on AI development.
+- 💞️ I’m looking to collaborate on indie games, web applications and projects involving AI. 
 - 📫 How to reach me: via my personal e-mail otaviozys@outlook.com or send me a shoutout on twitter @OtavioZys
 
 <!---
